@@ -1,4 +1,10 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=956159241&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hi, I'm zhangzhonghua, English name is Tim.
+
+- 🔭 简书: [张中华](https://www.jianshu.com/u/73338f0db75f)
+- 🌱 掘金：[张中华](https://juejin.cn/user/3887474562304903)
+<!-- ### Hi there 👋 -->
 
 <!--
 **956159241/956159241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
